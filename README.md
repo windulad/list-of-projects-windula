@@ -1,7 +1,6 @@
 # Projects done by Windula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Appications <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - [Rock Paper Scissor](https://github.com/windula/rock-paper-scissor.git) - Rock Paper Scissor is a project done by Windula, by recreating the popular rock paper scissor game using python.
